@@ -34,7 +34,7 @@ and creating practical tools for online businesses.
 
 ### Connect With Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@MahdiArabgari](https://github.com/MahddiArabgari)
 
 ---
 
